@@ -1,0 +1,395 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-03",
+  "templates": [
+    {
+      "id": "business_pitch_deck",
+      "title": "Kế hoạch kinh doanh & Khởi nghiệp Đột phá",
+      "subtitle": "Mẫu thuyết trình gọi vốn chuyên nghiệp với số liệu tăng trưởng và lộ trình chiến lược",
+      "category": "Kinh doanh",
+      "tags": [
+        "Pitch Deck",
+        "Khởi nghiệp",
+        "Chiến lược",
+        "Gọi vốn"
+      ],
+      "slideCount": 3,
+      "accentColor": "#6366F1",
+      "gradient": [
+        "#0F172A",
+        "#1E1B4B",
+        "#312E81"
+      ],
+      "slides": [
+        {
+          "index": 1,
+          "type": "cover",
+          "title": "KẾ HOẠCH KINH DOANH & ĐỘT PHÁ",
+          "subtitle": "Chiến lược phát triển & mở rộng thị phần giai đoạn 2026 - 2030",
+          "badge": "DOANH NGHIỆP CHIẾN LƯỢC",
+          "author": "Ban Giám Đốc Điều Hành",
+          "accent": "#6366F1"
+        },
+        {
+          "index": 2,
+          "type": "problem_solution",
+          "title": "Vấn đề Thị trường & Giải pháp Tối ưu",
+          "subtitle": "Phân tích điểm nghẽn của đối thủ và năng lực vượt trội của ZenQ",
+          "badge": "GIẢI PHÁP ĐỘT PHÁ",
+          "metrics": [
+            {
+              "label": "Tối ưu chi phí",
+              "value": "-45%"
+            },
+            {
+              "label": "Tăng tốc vận hành",
+              "value": "3.5x"
+            },
+            {
+              "label": "Độ tin cậy",
+              "value": "99.9%"
+            }
+          ],
+          "accent": "#3B82F6"
+        },
+        {
+          "index": 3,
+          "type": "roadmap",
+          "title": "Lộ trình Thực thi & Doanh thu Dự phóng",
+          "subtitle": "Kế hoạch 3 giai đoạn hướng tới cột mốc 10 triệu USD ARR",
+          "badge": "LỘ TRÌNH 2026-2028",
+          "phases": [
+            {
+              "phase": "Q1-Q2",
+              "name": "Nền tảng & Thử nghiệm",
+              "target": "50K Users"
+            },
+            {
+              "phase": "Q3-Q4",
+              "name": "Mở rộng thị trường",
+              "target": "200K Users"
+            },
+            {
+              "phase": "2027+",
+              "name": "Thống lĩnh khu vực",
+              "target": "1M+ Users"
+            }
+          ],
+          "accent": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "financial_report_2026",
+      "title": "Báo cáo Tài chính & Tổng kết Quý",
+      "subtitle": "Báo cáo quản trị tài chính với các chỉ số KPI, biên lợi nhuận và phân bổ dòng tiền",
+      "category": "Tài chính",
+      "tags": [
+        "Tài chính",
+        "Báo cáo",
+        "KPI",
+        "Doanh thu"
+      ],
+      "slideCount": 3,
+      "accentColor": "#059669",
+      "gradient": [
+        "#042F2E",
+        "#064E3B",
+        "#0F172A"
+      ],
+      "slides": [
+        {
+          "index": 1,
+          "type": "cover",
+          "title": "BÁO CÁO TÀI CHÍNH QUÝ 3/2026",
+          "subtitle": "Tổng kết hiệu quả kinh doanh & phân tích chỉ số tài chính trọng yếu",
+          "badge": "BÁO CÁO THƯỜNG NIÊN",
+          "author": "Phòng Tài Chính - Kế Toán",
+          "accent": "#10B981"
+        },
+        {
+          "index": 2,
+          "type": "metrics",
+          "title": "Chỉ số Tài chính Trọng yếu",
+          "subtitle": "Tăng trưởng vượt bậc so với cùng kỳ năm trước",
+          "badge": "KẾT QUẢ KINH DOANH",
+          "metrics": [
+            {
+              "label": "Tổng doanh thu",
+              "value": "48.5 Tỷ"
+            },
+            {
+              "label": "Lợi nhuận ròng",
+              "value": "15.2 Tỷ"
+            },
+            {
+              "label": "Biên lợi nhuận",
+              "value": "31.4%"
+            },
+            {
+              "label": "Tăng trưởng YoY",
+              "value": "+42.8%"
+            }
+          ],
+          "accent": "#059669"
+        },
+        {
+          "index": 3,
+          "type": "breakdown",
+          "title": "Cơ cấu Doanh thu & Chi phí Vận hành",
+          "subtitle": "Tối ưu hóa nguồn vốn và gia tăng dự trữ tiền mặt",
+          "badge": "PHÂN TÍCH TÀI CHÍNH",
+          "phases": [
+            {
+              "phase": "Dịch vụ cốt lõi",
+              "name": "Doanh thu sản phẩm SaaS",
+              "target": "62%"
+            },
+            {
+              "phase": "Dự án doanh nghiệp",
+              "name": "Tư vấn giải pháp riêng",
+              "target": "28%"
+            },
+            {
+              "phase": "Khác",
+              "name": "Phí bảo trì & đối tác",
+              "target": "10%"
+            }
+          ],
+          "accent": "#14B8A6"
+        }
+      ]
+    },
+    {
+      "id": "company_profile_modern",
+      "title": "Hồ sơ Năng lực Công ty & Đội ngũ",
+      "subtitle": "Giới thiệu thương hiệu doanh nghiệp, sứ mệnh, giá trị cốt lõi và các dự án tiêu biểu",
+      "category": "Thương hiệu",
+      "tags": [
+        "Profile",
+        "Công ty",
+        "Thương hiệu",
+        "Đội ngũ"
+      ],
+      "slideCount": 3,
+      "accentColor": "#3B82F6",
+      "gradient": [
+        "#1E1B4B",
+        "#1E3A8A",
+        "#0F172A"
+      ],
+      "slides": [
+        {
+          "index": 1,
+          "type": "cover",
+          "title": "HỒ SƠ NĂNG LỰC DOANH NGHIỆP",
+          "subtitle": "Kiến tạo tương lai với giải pháp công nghệ văn phòng đột phá",
+          "badge": "CÔNG TY CỔ PHẦN CÔNG NGHỆ ZENQ",
+          "author": "Phòng Truyền Thông Thương Hiệu",
+          "accent": "#3B82F6"
+        },
+        {
+          "index": 2,
+          "type": "values",
+          "title": "Tầm nhìn, Sứ mệnh & Giá trị Cốt lõi",
+          "subtitle": "Cam kết mang lại trải nghiệm làm việc thông minh và hiệu quả nhất",
+          "badge": "GIÁ TRỊ CỐT LÕI",
+          "phases": [
+            {
+              "phase": "Đổi mới",
+              "name": "Tiên phong áp dụng AI",
+              "target": "Liên tục"
+            },
+            {
+              "phase": "Bảo mật",
+              "name": "An toàn dữ liệu tuyệt đối",
+              "target": "Chuẩn ISO"
+            },
+            {
+              "phase": "Tận tâm",
+              "name": "Hỗ trợ khách hàng 24/7",
+              "target": "99% Hài lòng"
+            }
+          ],
+          "accent": "#2563EB"
+        },
+        {
+          "index": 3,
+          "type": "projects",
+          "title": "Dự án Tiêu biểu & Đối tác Chiến lược",
+          "subtitle": "Được tin dùng bởi hơn 5,000+ tổ chức và doanh nghiệp hàng đầu",
+          "badge": "DỰ ÁN NỔI BẬT",
+          "metrics": [
+            {
+              "label": "Doanh nghiệp tin dùng",
+              "value": "5,000+"
+            },
+            {
+              "label": "Tài liệu xử lý mỗi ngày",
+              "value": "2.5M+"
+            },
+            {
+              "label": "Giải thưởng đổi mới",
+              "value": "12"
+            }
+          ],
+          "accent": "#60A5FA"
+        }
+      ]
+    },
+    {
+      "id": "education_ai_lecture",
+      "title": "Bài giảng Chuyên đề: Trí tuệ Nhân tạo",
+      "subtitle": "Mẫu giáo án thuyết trình giảng dạy trực quan, khoa học với sơ đồ tư duy tương tác",
+      "category": "Giáo dục",
+      "tags": [
+        "Giáo dục",
+        "Bài giảng",
+        "AI",
+        "Khoa học"
+      ],
+      "slideCount": 3,
+      "accentColor": "#8B5CF6",
+      "gradient": [
+        "#180828",
+        "#2E1065",
+        "#3B0764"
+      ],
+      "slides": [
+        {
+          "index": 1,
+          "type": "cover",
+          "title": "NHẬP MÔN TRÍ TUỆ NHÂN TẠO & DEEP LEARNING",
+          "subtitle": "Khám phá nền tảng mô hình tạo sinh và ứng dụng trong cuộc sống",
+          "badge": "KHÓA HỌC CHUYÊN SÂU",
+          "author": "Học Viện Công Nghệ ZenQ",
+          "accent": "#8B5CF6"
+        },
+        {
+          "index": 2,
+          "type": "concepts",
+          "title": "Cấu trúc Hệ thống & Thuật toán",
+          "subtitle": "Tìm hiểu 3 trụ cột cơ bản của hệ thống Trí tuệ Nhân tạo hiện đại",
+          "badge": "LÝ THUYẾT NỀN TẢNG",
+          "phases": [
+            {
+              "phase": "Phần 1",
+              "name": "Machine Learning cổ điển & Hồi quy",
+              "target": "Tuần 1-2"
+            },
+            {
+              "phase": "Phần 2",
+              "name": "Mạng nơ-ron sâu (Neural Networks)",
+              "target": "Tuần 3-4"
+            },
+            {
+              "phase": "Phần 3",
+              "name": "Transformer & Large Language Models",
+              "target": "Tuần 5-6"
+            }
+          ],
+          "accent": "#A855F7"
+        },
+        {
+          "index": 3,
+          "type": "lab",
+          "title": "Thực hành Dự án & Bài tập Lớn",
+          "subtitle": "Xây dựng trợ lý ảo thông minh tương tác bằng ngôn ngữ tự nhiên",
+          "badge": "THỰC HÀNH TƯƠNG TÁC",
+          "metrics": [
+            {
+              "label": "Bài tập tình huống",
+              "value": "10 Lab"
+            },
+            {
+              "label": "Dự án thực tế",
+              "value": "3 Project"
+            },
+            {
+              "label": "Độ hoàn thành",
+              "value": "100%"
+            }
+          ],
+          "accent": "#C084FC"
+        }
+      ]
+    },
+    {
+      "id": "marketing_campaign_deck",
+      "title": "Chiến dịch Marketing Đa kênh 2026",
+      "subtitle": "Kế hoạch ra mắt sản phẩm mới, chiến lược truyền thông xã hội và chuyển đổi phễu",
+      "category": "Marketing",
+      "tags": [
+        "Marketing",
+        "Chiến dịch",
+        "Truyền thông",
+        "Social Media"
+      ],
+      "slideCount": 3,
+      "accentColor": "#EC4899",
+      "gradient": [
+        "#500724",
+        "#831843",
+        "#1C1917"
+      ],
+      "slides": [
+        {
+          "index": 1,
+          "type": "cover",
+          "title": "CHIẾN DỊCH MARKETING ĐA KÊNH 2026",
+          "subtitle": "Bứt phá doanh số với chiến lược truyền thông thông minh & tự động hóa",
+          "badge": "KẾ HOẠCH MARKETING",
+          "author": "Khối Tiếp Thị & Tăng Trưởng",
+          "accent": "#EC4899"
+        },
+        {
+          "index": 2,
+          "type": "channels",
+          "title": "Phân bổ Kênh Truyền thông & Ngân sách",
+          "subtitle": "Tập trung vào các kênh có tỉ suất hoàn vốn (ROAS) cao nhất",
+          "badge": "PHÂN BỔ NGÂN SÁCH",
+          "phases": [
+            {
+              "phase": "Digital Ads",
+              "name": "Google & Meta Conversion Ads",
+              "target": "45% Ngân sách"
+            },
+            {
+              "phase": "KOL & Viral",
+              "name": "Đại sứ thương hiệu & Content creators",
+              "target": "30% Ngân sách"
+            },
+            {
+              "phase": "SEO & Organic",
+              "name": "Content marketing & Cộng đồng",
+              "target": "25% Ngân sách"
+            }
+          ],
+          "accent": "#F43F5E"
+        },
+        {
+          "index": 3,
+          "type": "kpi",
+          "title": "Mục tiêu Tăng trưởng Chiến dịch",
+          "subtitle": "Dự phóng kết quả đạt được sau 90 ngày triển khai toàn diện",
+          "badge": "MỤC TIÊU KPI",
+          "metrics": [
+            {
+              "label": "Lượt tiếp cận Reach",
+              "value": "15M+"
+            },
+            {
+              "label": "Khách hàng tiềm năng",
+              "value": "85,000+"
+            },
+            {
+              "label": "Doanh số kỳ vọng",
+              "value": "25 Tỷ"
+            }
+          ],
+          "accent": "#FB7185"
+        }
+      ]
+    }
+  ]
+}
